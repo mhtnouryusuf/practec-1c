@@ -1,2 +1,4 @@
+```python
 def greet(name):
-    return f"Hello, {name}!"
+ return f"Hello, {name}!"
+```
